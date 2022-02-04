@@ -24,13 +24,13 @@ body {
 
  /* id cabecera */
 #cabecera {
-    background-color: #FFFBB9;
+    background-color: #56b4f3;
     border: 1px solid #000;
     padding: 20px;
 }
 
 #cabecera > h1 {
-    background-color: #FFFBB9;
+    background-color: #56b4f3;
 }
 
 #menu {
@@ -75,7 +75,7 @@ img {
 }
 
 article {
-    background-color: rgb(26, 152, 184);
+    background-color: rgb(144, 154, 156);
     border: 2px dashed #000;
     padding: 20px;
     margin-bottom: 15px;
